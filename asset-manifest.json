@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drawing-lines-app/static/css/main.f91712b2.css",
+    "main.js": "/drawing-lines-app/static/js/main.204a3368.js",
+    "static/js/787.f112b272.chunk.js": "/drawing-lines-app/static/js/787.f112b272.chunk.js",
+    "index.html": "/drawing-lines-app/index.html",
+    "main.f91712b2.css.map": "/drawing-lines-app/static/css/main.f91712b2.css.map",
+    "main.204a3368.js.map": "/drawing-lines-app/static/js/main.204a3368.js.map",
+    "787.f112b272.chunk.js.map": "/drawing-lines-app/static/js/787.f112b272.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f91712b2.css",
+    "static/js/main.204a3368.js"
+  ]
+}
